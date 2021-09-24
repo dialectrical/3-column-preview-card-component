@@ -11,6 +11,9 @@ export const StyledCard = styled.section`
   .contentContainer {
     margin: 25px 0px 83px 0px;
   }
+  .buttonContainer {
+    margin: 83px 0px 0x 0.5px;
+  }
   .sedansCard {
     background-color: #e2b625;
   }
