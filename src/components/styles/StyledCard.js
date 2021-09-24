@@ -5,6 +5,9 @@ export const StyledCard = styled.section`
   height: 500px;
   border-radius: 8px;
   padding: 48px 47.5px 48px 47.5px;
+  .imgContainer {
+    margin: 0px 0px 35px 0.5px;
+  }
   .headerContainer {
     margin: 35px 0px 25px 0.5px;
   }
