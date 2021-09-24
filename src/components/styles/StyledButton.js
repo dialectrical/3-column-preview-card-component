@@ -4,24 +4,17 @@ export const StyledButton = styled.button`
   width: 146px;
   height: 48px;
   border-radius: 25px;
+  border: none;
   background-color: #f2f2f2;
   cursor: pointer;
-  .sedanButton {
-    color: #e28625;
-  }
-  .suvButton {
-    color: #006971;
-  }
-  .luxuryButton {
-    color: #004140;
-  }
+
   :hover {
     border: 2px solid #f2f2f2;
     color: #f2f2f2;
-    .sedanButton {
+    .sedansButton {
       background-color: #e28625;
     }
-    .suvButton {
+    .suvsButton {
       background-color: #006971;
     }
     .luxuryButton {

@@ -1,3 +1,13 @@
+.sedansCard {
+  background-color: #e28625;
+}
+.suvsCard {
+  background-color: #006971;
+}
+.luxuryCard {
+  background-color: #004140;
+}
+
 body {
   background-color: hsl(0, 0%, 95%);
   margin: 0;

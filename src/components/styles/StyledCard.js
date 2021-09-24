@@ -17,13 +17,26 @@ export const StyledCard = styled.section`
   .buttonContainer {
     margin: 83px 0px 0x 0.5px;
   }
-  .sedansCard {
-    background-color: #e2b625;
+  .sedansButton {
+    color: #e28625;
   }
-  .suvsCard {
-    backgroundpcolor: #006971;
+  .suvsButton {
+    color: #006971;
   }
-  .luxuryCard {
-    background-color: #004140;
+  .luxuryButton {
+    color: #004140;
+  }
+  button:hover {
+    border: 2px solid #f2f2f2;
+    color: #f2f2f2;
+    .sedansButton {
+      background-color: #e28625;
+    }
+    .suvsButton {
+      background-color: #006971;
+    }
+    .luxuryButton {
+      background-color: #004140;
+    }
   }
 `;
