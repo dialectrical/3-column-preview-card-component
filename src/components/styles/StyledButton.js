@@ -7,4 +7,7 @@ export const StyledButton = styled.button`
   border: none;
   background-color: #f2f2f2;
   cursor: pointer;
+  font-family: "Lexend Deca";
+  font-size: 15px;
+  line-height: 25px;
 `;
