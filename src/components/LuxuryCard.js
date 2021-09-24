@@ -1,16 +1,16 @@
 import React from "react";
 import { StyledCard } from "./styles/StyledCard";
 import { StyledButton } from "./styles/StyledButton";
-import icon from "../img/icon-suvs.svg";
+import icon from "../img/icon-luxury.svg";
 
-export const SuvsCard = () => {
+export const LuxuryCard = () => {
   return (
-    <StyledCard className="suvsCard">
+    <StyledCard className="luxuryCard">
       <div className="imgContainer">
         <img src={icon} />
       </div>
       <div className="headerContainer">
-        <h2>SUVs</h2>
+        <h2>Luxury</h2>
       </div>
       <div className="textContainer">
         <p>
@@ -19,7 +19,7 @@ export const SuvsCard = () => {
         </p>
       </div>
       <div className="buttonContainer">
-        <StyledButton className="suvsButton"> Learn More</StyledButton>
+        <StyledButton className="luxuryButton"> Learn More</StyledButton>
       </div>
     </StyledCard>
   );
