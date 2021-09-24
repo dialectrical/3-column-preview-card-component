@@ -1,16 +1,8 @@
 import React from "react";
-import { SedansCard } from "./components/SedansCard";
-import { SuvsCard } from "./components/SuvsCard";
-import { LuxuryCard } from "./components/LuxuryCard";
+import { PreviewCard } from "./components/PreviewCard";
 
 function App() {
-  return (
-    <div>
-      <SedansCard />
-      <SuvsCard />
-      <LuxuryCard />
-    </div>
-  );
+  return <PreviewCard />;
 }
 
 export default App;

@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 export const StyledCard = styled.section`
+  display: inline-block;
   width: 307px;
   height: 500px;
   border-radius: 8px;
