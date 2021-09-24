@@ -41,4 +41,18 @@ export const StyledCard = styled.section`
       background-color: #004140;
     }
   }
+  h2 {
+    font-family: "Big Shoulders Display";
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  p {
+    font-family: "Lexend Deca";
+    font-size: 15px;
+    line-height: 25px;
+    color: #ffffff;
+    opacity: 0.75;
+  }
 `;
