@@ -1,5 +1,12 @@
+import React from "react";
+import { SedansCard } from "./components/SedansCard";
+
 function App() {
-  return <div></div>;
+  return (
+    <div>
+      <SedansCard />
+    </div>
+  );
 }
 
 export default App;
