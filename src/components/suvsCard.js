@@ -3,7 +3,7 @@ import { StyledCard } from "./styles/StyledCard";
 import { StyledButton } from "./styles/StyledButton";
 import icon from "../img/icon-suvs.svg";
 
-export const SedansCard = () => {
+export const SuvsCard = () => {
   return (
     <StyledCard className="suvsCard">
       <div className="imgContainer">
