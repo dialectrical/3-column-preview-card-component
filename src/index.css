@@ -1,12 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap");
 .sedansCard {
+  border-radius: 8px 0 0 8px;
   background-color: #e28625;
 }
 .suvsCard {
   background-color: #006971;
 }
 .luxuryCard {
+  border-radius: 0 8px 8px 0;
   background-color: #004140;
 }
 

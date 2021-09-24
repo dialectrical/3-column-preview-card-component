@@ -4,7 +4,6 @@ export const StyledCard = styled.section`
   display: inline-block;
   width: 307px;
   height: 500px;
-  border-radius: 8px;
   padding: 1px 0 0 0;
   margin: -1px 0 0 0;
   .imgContainer {
