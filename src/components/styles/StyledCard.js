@@ -6,7 +6,10 @@ export const StyledCard = styled.section`
   border-radius: 8px;
   padding: 48px 47.5px 48px 47.5px;
   .headerContainer {
-    margin: 35px 0px 25px 48px;
+    margin: 35px 0px 25px 0.5px;
+  }
+  .contentContainer {
+    margin: 25px 0px 83px 0px;
   }
   .sedansCard {
     background-color: #e2b625;
