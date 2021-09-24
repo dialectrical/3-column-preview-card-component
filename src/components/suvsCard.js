@@ -14,8 +14,8 @@ export const SuvsCard = () => {
       </div>
       <div className="textContainer">
         <p>
-          Choose a sedan for its affordability and excellent fuel economy. Ideal
-          for cruising in the city or on your next road trip.
+          Take an SUV for its spacious interior, power, and versatility. Perfect
+          for your next family vacation and off-road adventures.
         </p>
       </div>
       <div className="buttonContainer">

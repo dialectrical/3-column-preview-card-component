@@ -14,8 +14,8 @@ export const LuxuryCard = () => {
       </div>
       <div className="textContainer">
         <p>
-          Choose a sedan for its affordability and excellent fuel economy. Ideal
-          for cruising in the city or on your next road trip.
+          Cruise in the best car brands without the bloated prices. Enjoy the
+          enhanced comfort of a luxury rental and arrive in style.
         </p>
       </div>
       <div className="buttonContainer">
