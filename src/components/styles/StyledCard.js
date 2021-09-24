@@ -4,19 +4,20 @@ export const StyledCard = styled.section`
   width: 307px;
   height: 500px;
   border-radius: 8px;
-  padding: 48px 47.5px 48px 47.5px;
+  padding: 1px 0 0 0;
+  margin: -1px 0 0 0;
   .imgContainer {
-    margin: 0px 0px 35px 0.5px;
+    margin: 48px 0px 35px 48px;
   }
   .headerContainer {
-    margin: 35px 0px 25px 0.5px;
+    margin: 35px 0px 25px 48px;
   }
-  .contentContainer {
-    margin: 25px 0px 83px 0px;
+  .textContainer {
+    width: 212px;
+    height: 125px;
+    margin: 25px 0px 83px 47.5px;
   }
-  .buttonContainer {
-    margin: 83px 0px 0x 0.5px;
-  }
+
   .sedansButton {
     color: #e28625;
     :hover {

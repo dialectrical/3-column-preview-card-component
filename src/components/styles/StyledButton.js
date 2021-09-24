@@ -10,4 +10,5 @@ export const StyledButton = styled.button`
   font-family: "Lexend Deca";
   font-size: 15px;
   line-height: 25px;
+  margin-left: 48px;
 `;

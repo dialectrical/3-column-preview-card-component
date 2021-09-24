@@ -12,7 +12,7 @@ export const SedansCard = () => {
       <div className="headerContainer">
         <h2>Sedans</h2>
       </div>
-      <div className="contentContainer">
+      <div className="textContainer">
         <p>
           Choose a sedan for its affordability and excellent fuel economy. Ideal
           for cruising in the city or on your next road trip.
