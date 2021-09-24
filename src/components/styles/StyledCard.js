@@ -42,12 +42,17 @@ export const StyledCard = styled.section`
       background-color: #004140;
     }
   }
+  img {
+    display: block;
+    margin: 0;
+  }
   h2 {
     font-family: "Big Shoulders Display";
     font-size: 40px;
     line-height: 48px;
     font-weight: bold;
     text-transform: uppercase;
+    margin: 0;
   }
   p {
     font-family: "Lexend Deca";
