@@ -5,7 +5,7 @@ import icon from "../img/icon-sedans.svg";
 
 export const SedansCard = () => {
   return (
-    <StyledCard className="sedans">
+    <StyledCard className="sedansCard">
       <img src={icon} />
       <h2>Sedans</h2>
       <p>
