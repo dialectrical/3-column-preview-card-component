@@ -19,23 +19,25 @@ export const StyledCard = styled.section`
   }
   .sedansButton {
     color: #e28625;
+    :hover {
+      border: 2px solid #f2f2f2;
+      color: #f2f2f2;
+      background-color: #e28625;
+    }
   }
   .suvsButton {
     color: #006971;
+    :hover {
+      border: 2px solid #f2f2f2;
+      color: #f2f2f2;
+      background-color: #006971;
+    }
   }
   .luxuryButton {
     color: #004140;
-  }
-  button:hover {
-    border: 2px solid #f2f2f2;
-    color: #f2f2f2;
-    .sedansButton {
-      background-color: #e28625;
-    }
-    .suvsButton {
-      background-color: #006971;
-    }
-    .luxuryButton {
+    :hover {
+      border: 2px solid #f2f2f2;
+      color: #f2f2f2;
       background-color: #004140;
     }
   }
