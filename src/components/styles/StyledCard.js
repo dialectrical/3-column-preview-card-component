@@ -2,19 +2,19 @@ import styled from "styled-components";
 
 export const StyledCard = styled.section`
   display: inline-block;
-  width: 307px;
-  height: 500px;
+  width: 21.32vw;
+  height: 37.5vh;
   padding: 1px 0 0 0;
   margin: -1px 0 0 0;
   .imgContainer {
-    margin: 48px 0px 35px 48px;
+    margin: 6vh 0px 2.43vw 6vh;
   }
   .headerContainer {
-    margin: 35px 0px 25px 48px;
+    margin: 11.67vh 0px 3.13vh 3.33vw;
   }
   .textContainer {
-    width: 212px;
-    height: 125px;
+    width: 14.72vw;
+    height: 15.63vh;
     margin: 25px 0px 83px 47.5px;
   }
 
