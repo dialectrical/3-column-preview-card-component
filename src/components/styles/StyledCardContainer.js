@@ -1,5 +1,5 @@
 import styled from "styled-components";
 
 export const StyledCardContainer = styled.div`
-  margin: 171px 0px 129px 260px;
+  margin: 21.38vh 0px 16.13vh 18.06vw;
 `;

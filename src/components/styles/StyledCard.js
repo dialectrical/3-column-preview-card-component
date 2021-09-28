@@ -15,7 +15,7 @@ export const StyledCard = styled.section`
   .textContainer {
     width: 14.72vw;
     height: 15.63vh;
-    margin: 25px 0px 83px 47.5px;
+    margin: 3.13vh 0px 10.38vh 3.3vw;
   }
 
   .sedansButton {
