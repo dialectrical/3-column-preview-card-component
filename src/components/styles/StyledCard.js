@@ -3,14 +3,14 @@ import styled from "styled-components";
 export const StyledCard = styled.section`
   display: inline-block;
   width: 21.32vw;
-  height: 37.5vh;
+  height: 62.5vh;
   padding: 1px 0 0 0;
   margin: -1px 0 0 0;
   .imgContainer {
-    margin: 6vh 0px 2.43vw 6vh;
+    margin: 6vh 0px 4.38vh 6vh;
   }
   .headerContainer {
-    margin: 11.67vh 0px 3.13vh 3.33vw;
+    margin: 4.38vh 0px 3.13vh 3.33vw;
   }
   .textContainer {
     width: 14.72vw;
